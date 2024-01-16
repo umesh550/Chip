@@ -1,0 +1,13 @@
+.chip-component {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.chip-container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 16px;
+  border-bottom: 2px solid #3652ad;
+}
